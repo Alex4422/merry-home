@@ -1,0 +1,8 @@
+{
+    "link": "Programme TV",
+    "linkicon": "film",
+    "type": "ProgrammePanel",
+    "itemType": "ProgrammePanel",
+    "apiEventSubscribe": "programme-done",
+    "list": []
+}

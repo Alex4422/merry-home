@@ -1,0 +1,7 @@
+{
+  "link": "Sensors",
+  "linkicon": "dashboard",
+  "type": "List",
+  "itemType": "SensorItem",
+  "list": []
+}

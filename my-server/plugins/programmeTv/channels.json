@@ -1,0 +1,101 @@
+[{
+        "name": "TF1",
+        "image": "https://webnext.fr/img/chaines-tv/tf1.gif"
+    },
+    {
+        "name": "France 2",
+        "image": "https://webnext.fr/img/chaines-tv/france2.gif"
+    },
+    {
+        "name": "France 3",
+        "image": "https://webnext.fr/img/chaines-tv/france3.gif"
+    },
+    {
+        "name": "Canal+",
+        "image": "https://webnext.fr/img/chaines-tv/canalplus.gif"
+    },
+    {
+        "name": "France 5",
+        "image": "https://webnext.fr/img/chaines-tv/france5.gif"
+    },
+    {
+        "name": "M6",
+        "image": "https://webnext.fr/img/chaines-tv/m6.gif"
+    },
+    {
+        "name": "Arte",
+        "image": "https://webnext.fr/img/chaines-tv/arte.gif"
+    },
+    {
+        "name": "C8",
+        "image": "https://webnext.fr/img/chaines-tv/c8.gif"
+    },
+    {
+        "name": "W9",
+        "image": "https://webnext.fr/img/chaines-tv/w9.gif"
+    },
+    {
+        "name": "TMC",
+        "image": "https://webnext.fr/img/chaines-tv/tmc.gif"
+    },
+    {
+        "name": "NT1",
+        "image": "https://webnext.fr/img/chaines-tv/nt1.gif"
+    },
+    {
+        "name": "NRJ 12",
+        "image": "https://webnext.fr/img/chaines-tv/nrj12.gif"
+    },
+    {
+        "name": "Public Sénat - LCP AN",
+        "image": "https://webnext.fr/img/chaines-tv/publicsenatlcpan.gif"
+    },
+    {
+        "name": "France 4",
+        "image": "https://webnext.fr/img/chaines-tv/france4.gif"
+    },
+    {
+        "name": "BFMTV",
+        "image": "https://webnext.fr/img/chaines-tv/bfmtv.gif"
+    },
+    {
+        "name": "CNews",
+        "image": "https://webnext.fr/img/chaines-tv/cnews.gif"
+    },
+    {
+        "name": "CStar",
+        "image": "https://webnext.fr/img/chaines-tv/cstar.gif"
+    },
+    {
+        "name": "Gulli",
+        "image": "https://webnext.fr/img/chaines-tv/gulli.gif"
+    },
+    {
+        "name": "France Ô",
+        "image": "https://webnext.fr/img/chaines-tv/franceo.gif"
+    },
+    {
+        "name": "HD1",
+        "image": "https://webnext.fr/img/chaines-tv/hd1.gif"
+    },
+    {
+        "name": "L'Équipe",
+        "image": "https://webnext.fr/img/chaines-tv/lequipe.gif"
+    },
+    {
+        "name": "6ter",
+        "image": "https://webnext.fr/img/chaines-tv/6ter.gif"
+    },
+    {
+        "name": "Numéro 23",
+        "image": "https://webnext.fr/img/chaines-tv/numero23.gif"
+    },
+    {
+        "name": "RMC Découverte",
+        "image": "https://webnext.fr/img/chaines-tv/rmcdecouverte.gif"
+    },
+    {
+        "name": "Chérie 25",
+        "image": "https://webnext.fr/img/chaines-tv/cherie25.gif"
+    }
+]

@@ -1,0 +1,50 @@
+.list-programme {
+    display: flex;
+    flex-flow: row wrap;
+    color: #343a40;
+}
+
+.channel {
+    flex: 1 100%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+    border: 1px solid rgba(1, 1, 1, 0.3);
+    margin-bottom: 10px;
+    padding: 5px 2px;
+}
+
+.channel-title {
+    flex: 1 0px;
+}
+
+.channel-programme {
+    flex: 6 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item-programme {
+    width: 31.5%;
+    background-color: #f8f9fa;
+    display: flex;
+    align-content: flex-start;
+    margin: 5px 0.5%;
+    padding: 3px;
+}
+
+.item-programme span,
+.item-programme a {
+    display: inline-block;
+    padding: 0 3px;
+    text-align: left;
+}
+
+.item-programme.active {
+    background: #6c757d;
+    color: white;
+}
+
+.item-programme.active a {
+    color: white;
+}
